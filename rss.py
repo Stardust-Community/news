@@ -1,3 +1,8 @@
+.
+├── bot.py
+├── modules/
+│   └── rss/
+│       └── rss.py
 import asyncio
 import feedparser
 from pyrogram import Client
